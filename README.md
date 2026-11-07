@@ -63,10 +63,10 @@ Ha egy link üres, a hozzá tartozó gomb „Hamarosan” felirattal jelenik meg
 
 | Név | Szerepkör |
 |---|---|
-| *[név]* | Projektmenedzser, fejlesztő |
-| *[név]* | Fejlesztő |
-| *[név]* | Fejlesztő |
-| *[név]* | Fejlesztő |
+| *Karban Csaba Ferenc* | Projektmenedzser, fejlesztő |
+| *Fazekas András Levente* | Fejlesztő |
+| *Madarász Levente* | Fejlesztő |
+| *Márton-Szűcs Albert* | Fejlesztő |
 
 ## Források
 
