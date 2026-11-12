@@ -71,10 +71,10 @@ Ha a prezentációt lecseréled, az új fájl neve pontosan egyezzen a fenti né
 
 | Név | Szerepkör |
 |---|---|
-| *[név]* | Projektmenedzser, fejlesztő |
-| *[név]* | Fejlesztő |
-| *[név]* | Fejlesztő |
-| *[név]* | Fejlesztő |
+| *Karban Csaba Ferenc* | Projektmenedzser, fejlesztő |
+| *Fazekas András Levente* | Fejlesztő |
+| *Madarász Levente* | Fejlesztő |
+| *Márton-Szűcs Albert* | Fejlesztő |
 
 ## Források
 
